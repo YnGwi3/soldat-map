@@ -37,7 +37,6 @@
 169/maps/ctf_Snakebite.pms
 169/maps/ctf_Steel.pms
 169/maps/ctf_Triumph.pms
-169/maps/ctf_Tv.pms
 169/maps/ctf_Viet.pms
 169/maps/ctf_Voland.pms
 169/maps/ctf_Wretch.pms
@@ -649,6 +648,7 @@
 171/maps/ctf_Steel.pms
 171/maps/ctf_Spark.pms
 171/maps/ctf_Triumph.pms
+171/maps/ctf_Tv.pms
 171/maps/ctf_Viet.pms
 171/maps/ctf_Voland.pms
 171/maps/ctf_Wretch.pms
@@ -1197,7 +1197,10 @@
 171/scenery-gfx/xt_mo_wire_01.png
 171/textures/ananas.png
 171/textures/ancientwall.png
+171/textures/ancientbricks.bmp
 171/textures/awokado.png
+171/textures/ananasnoedge.bmp
+171/textures/ananaspistacja.bmp
 171/textures/banana.png
 171/textures/ctf_cobra2.png
 171/textures/ctf_steel.png
@@ -1268,10 +1271,12 @@
 171/textures/objects/vestkit.png
 171/textures/pomarancz.png
 171/textures/porzeczka.png
+171/textures/porzeczkasc6.png
 171/textures/potato.png
 171/textures/potato2.png
 171/textures/poziomka.png
 171/textures/riverbed.png
+171/textures/rockmetal2.bmp
 171/textures/rodzynka.png
 171/textures/rustedmetal.png
 171/textures/sk_aztec.png
