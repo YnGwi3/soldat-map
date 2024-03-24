@@ -649,6 +649,7 @@
 171/maps/ctf_Spark.pms
 171/maps/ctf_Triumph.pms
 171/maps/ctf_Tv.pms
+171/maps/ctf_Underworld.pms
 171/maps/ctf_Viet.pms
 171/maps/ctf_Voland.pms
 171/maps/ctf_Wretch.pms
@@ -707,7 +708,14 @@
 171/maps/Tropiccave.pms
 171/maps/Unlim.pms
 171/maps/Veoto.pms
+171/scenery-gfx/8_vines_small_001.png
+171/scenery-gfx/8_vines_small_003.png
+171/scenery-gfx/chaen.bmp
+171/scenery-gfx/grass7.bmp
+171/scenery-gfx/l_lamp-torch-sk.bmp
+171/scenery-gfx/torch.bmp
 171/scenery-gfx/_dbush1.png
+171/scenery-gfx/veg_vine_11.png
 171/scenery-gfx/_dcactus1.png
 171/scenery-gfx/_dcactus2.png
 171/scenery-gfx/_dcactus3.png
@@ -1036,6 +1044,8 @@
 171/scenery-gfx/pure_liana.png
 171/scenery-gfx/pure_spike_fence.png
 171/scenery-gfx/pure_spike_fence_small.png
+171/scenery-gfx/pure_bridge.png
+171/scenery-gfx/pure_spider_web3.png
 171/scenery-gfx/reallyblank.png
 171/scenery-gfx/rir_brndcar01s.png
 171/scenery-gfx/rir-barrel.png
