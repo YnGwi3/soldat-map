@@ -639,6 +639,7 @@
 171/maps/ctf_MFM.pms
 171/maps/ctf_Nuubia.pms
 171/maps/ctf_newLava.pms
+171/maps/ctf_oldLava.pms
 171/maps/ctf_Raspberry.pms
 171/maps/ctf_Rotten.pms
 171/maps/ctf_Ruins.pms
@@ -1332,6 +1333,7 @@
 171/textures/potato2.png
 171/textures/poziomka.png
 171/textures/pure_arab.bmp
+171/textures/pure_lava.png
 171/textures/riverbed.png
 171/textures/rockmetal2.bmp
 171/textures/rodzynka.png
