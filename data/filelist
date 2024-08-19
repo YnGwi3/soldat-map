@@ -854,6 +854,8 @@
 171/scenery-gfx/cs_crate2.png
 171/scenery-gfx/cs_siege_crate.png
 171/scenery-gfx/cs_siege_crate2.png
+171/scenery-gfx/cbble_torch.bmp
+171/scenery-gfx/cbble_railing.bmp
 171/scenery-gfx/deagle5_crate.png
 171/scenery-gfx/eo-city.png
 171/scenery-gfx/fade.png
@@ -1104,6 +1106,11 @@
 171/scenery-gfx/rope.png
 171/scenery-gfx/rsf_crate2.png
 171/scenery-gfx/rsf_crater1.png
+171/scenery-gfx/rsf_crack1.png
+171/scenery-gfx/rsf_crack2.png
+171/scenery-gfx/rsf_crack3.png
+171/scenery-gfx/rsf_cloud1.png
+171/scenery-gfx/rsf_cloud2.png
 171/scenery-gfx/rubble.bmp
 171/scenery-gfx/rubble.png
 171/scenery-gfx/rubble2.bmp
@@ -1147,6 +1154,8 @@
 171/scenery-gfx/st-pipe-horiz.png
 171/scenery-gfx/st-pipe-trbend.png
 171/scenery-gfx/st-pipe-vert.png
+171/scenery-gfx/ss_BLOOD.png
+171/scenery-gfx/ss_BLOOD2.png
 171/scenery-gfx/support.png
 171/scenery-gfx/swamptree2.png
 171/scenery-gfx/tent.png
@@ -1167,6 +1176,7 @@
 171/scenery-gfx/tw_rover_fg_11.png
 171/scenery-gfx/tw_tk_epyl.png
 171/scenery-gfx/tw_tk_lantern1.png
+171/scenery-gfx/TDT_0089.png
 171/scenery-gfx/utlight1v2.png
 171/scenery-gfx/veg_bush_35.png
 171/scenery-gfx/veg_bush_40.png
@@ -1181,6 +1191,18 @@
 171/scenery-gfx/veg_vine_2.png
 171/scenery-gfx/veg_vine_4.png
 171/scenery-gfx/veg_vine_5.png
+171/scenery-gfx/veg_dead_1.png
+171/scenery-gfx/veg_dead_1_short.png
+171/scenery-gfx/veg_dead_2.png
+171/scenery-gfx/veg_dead_4.png
+171/scenery-gfx/veg_dead_5.png
+171/scenery-gfx/veg_dead_6.png
+171/scenery-gfx/veg_dead_7.png
+171/scenery-gfx/veg_dead_9.png
+171/scenery-gfx/veg_dead_10.png
+171/scenery-gfx/veg_dead_12.png
+171/scenery-gfx/veg_dead_13.png
+171/scenery-gfx/veg_dead_21.png
 171/scenery-gfx/vine2.png
 171/scenery-gfx/WATER.PNG
 171/scenery-gfx/woodfence.bmp
