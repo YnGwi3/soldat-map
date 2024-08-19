@@ -773,6 +773,8 @@
 171/scenery-gfx/bnw_crate3.bmp
 171/scenery-gfx/bnw_grass3.bmp
 171/scenery-gfx/bnwl_putki.png
+171/scenery-gfx/bnw_junglebush.bmp
+171/scenery-gfx/bnw_liana3.bmp
 171/scenery-gfx/boulder001.png
 171/scenery-gfx/boulder003.png
 171/scenery-gfx/boulder007.png
@@ -838,6 +840,7 @@
 171/scenery-gfx/col6.png
 171/scenery-gfx/concrete1.png
 171/scenery-gfx/concrete1_fade.png
+171/scenery-gfx/celtic_fracture.png
 171/scenery-gfx/crate.bmp
 171/scenery-gfx/crate.png
 171/scenery-gfx/crate2.bmp
@@ -912,6 +915,8 @@
 171/scenery-gfx/fx_vtt_smoke_14.png
 171/scenery-gfx/garbish.bmp
 171/scenery-gfx/garbish.png
+171/scenery-gfx/gothic_elk_1.png
+171/scenery-gfx/gothic_forest_1.png
 171/scenery-gfx/Grasflache01.bmp
 171/scenery-gfx/grass.bmp
 171/scenery-gfx/grass.png
@@ -1176,9 +1181,24 @@
 171/scenery-gfx/tw_rover_fg_11.png
 171/scenery-gfx/tw_tk_epyl.png
 171/scenery-gfx/tw_tk_lantern1.png
+171/scenery-gfx/tw_coldmorning_fbg_1.png
 171/scenery-gfx/TDT_0089.png
 171/scenery-gfx/utlight1v2.png
+171/scenery-gfx/veg_bush_10.png
+171/scenery-gfx/veg_bush_12.png
+171/scenery-gfx/veg_bush_13.png
+171/scenery-gfx/veg_bush_14.png
+171/scenery-gfx/veg_bush_15.png
+171/scenery-gfx/veg_bush_16.png
+171/scenery-gfx/veg_bush_21.png
+171/scenery-gfx/veg_bush_24.png
+171/scenery-gfx/veg_bush_27.png
+171/scenery-gfx/veg_bush_31.png
 171/scenery-gfx/veg_bush_35.png
+171/scenery-gfx/veg_bush_36.png
+171/scenery-gfx/veg_bush_37.png
+171/scenery-gfx/veg_bush_38.png
+171/scenery-gfx/veg_bush_39.png
 171/scenery-gfx/veg_bush_40.png
 171/scenery-gfx/veg_grass_6.png
 171/scenery-gfx/veg_palm_15.png
@@ -1205,6 +1225,7 @@
 171/scenery-gfx/veg_dead_21.png
 171/scenery-gfx/vine2.png
 171/scenery-gfx/WATER.PNG
+171/scenery-gfx/wall1.PNG
 171/scenery-gfx/woodfence.bmp
 171/scenery-gfx/woodfence.png
 171/scenery-gfx/x.png
@@ -1276,7 +1297,9 @@
 171/textures/edges/wisnia2.bmp
 171/textures/grejfrut.png
 171/textures/gruszka.png
+171/textures/grunge9.png
 171/textures/jablko.png
+171/textures/JF7.png
 171/textures/Kamibeach.PNG
 171/textures/kiwi.png
 171/textures/kokos.png
@@ -1288,6 +1311,7 @@
 171/textures/mossgreen.png
 171/textures/mtex_desert.png
 171/textures/mtk_death.png
+171/textures/lumpybark.png
 171/textures/objects/berserkerkit.bmp
 171/textures/objects/clusterkit.bmp
 171/textures/objects/clusterkit.png
@@ -1307,6 +1331,7 @@
 171/textures/potato.png
 171/textures/potato2.png
 171/textures/poziomka.png
+171/textures/pure_arab.bmp
 171/textures/riverbed.png
 171/textures/rockmetal2.bmp
 171/textures/rodzynka.png
@@ -1325,3 +1350,4 @@
 171/textures/xt_autumgrassrock.png
 171/textures/xt_forrestdirtrock.png
 171/textures/zak_grassstone6.png
+171/textures/zaklava2.png
