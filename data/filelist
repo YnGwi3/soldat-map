@@ -627,6 +627,7 @@
 171/maps/ctf_Dropdown.pms
 171/maps/ctf_Equinox.pms
 171/maps/ctf_Fl.pms
+171/maps/ctf_Flash.pms
 171/maps/ctf_Guardian.pms
 171/maps/ctf_Hormone.pms
 171/maps/ctf_Horror.pms
@@ -710,6 +711,13 @@
 171/maps/Unlim.pms
 171/maps/Veoto.pms
 171/scenery-gfx/8_vines_small_001.png
+171/scenery-gfx/!_ByYngwie.png
+171/scenery-gfx/__x_fx_beam_light_dark.png
+171/scenery-gfx/_sy_01.png
+171/scenery-gfx/fx_P_nova4.png
+171/scenery-gfx/fx_vtt_smoke_08.png
+171/scenery-gfx/l_lamp_cap-sk.bmp
+171/scenery-gfx/st-cranerail.bmp
 171/scenery-gfx/8_vines_small_003.png
 171/scenery-gfx/chaen.bmp
 171/scenery-gfx/grass7.bmp
@@ -1282,6 +1290,7 @@
 171/textures/edges/mandarynka.bmp
 171/textures/edges/melon.bmp
 171/textures/edges/metroid.bmp
+171/textures/edges/militant.bmp
 171/textures/edges/mossgreen.bmp
 171/textures/edges/pomarancz.bmp
 171/textures/edges/porzeczka.bmp
@@ -1309,6 +1318,7 @@
 171/textures/mandarynka.png
 171/textures/melon.png
 171/textures/metroid.png
+171/textures/militant.bmp
 171/textures/mossgreen.png
 171/textures/mtex_desert.png
 171/textures/mtk_death.png
