@@ -640,6 +640,7 @@
 171/maps/ctf_MFM.pms
 171/maps/ctf_Nuubia.pms
 171/maps/ctf_newLava.pms
+171/maps/ctf_newLaos.pms
 171/maps/ctf_oldLava.pms
 171/maps/ctf_Raspberry.pms
 171/maps/ctf_Rotten.pms
@@ -744,6 +745,7 @@
 171/scenery-gfx/alc_bigcamonet.png
 171/scenery-gfx/alc_boat.png
 171/scenery-gfx/alc_stool.png
+171/scenery-gfx/aq_shadow_7.png
 171/scenery-gfx/amb_cloud1-sk.png
 171/scenery-gfx/amb_cloud-sk.png
 171/scenery-gfx/amb_fog_ground-sk.png
@@ -1160,6 +1162,10 @@
 171/scenery-gfx/stars.png
 171/scenery-gfx/stars1.png
 171/scenery-gfx/stars2.png
+171/scenery-gfx/SS_Laos-grass2.bmp
+171/scenery-gfx/stoneren1.png
+171/scenery-gfx/stoneren2.png
+171/scenery-gfx/stoneren3.png
 171/scenery-gfx/st-chain2.png
 171/scenery-gfx/st-cranebase2.png
 171/scenery-gfx/steelrope.png
@@ -1257,6 +1263,7 @@
 171/scenery-gfx/xt_jh_rope01.png
 171/scenery-gfx/xt_jh_stone01.png
 171/scenery-gfx/xt_mo_wire_01.png
+171/scenery-gfx/xt_jh_tree04.png
 171/textures/ananas.png
 171/textures/ancientwall.png
 171/textures/ancientbricks.bmp
@@ -1291,6 +1298,7 @@
 171/textures/edges/melon.bmp
 171/textures/edges/metroid.bmp
 171/textures/edges/militant.bmp
+171/textures/edges/newlaos.png
 171/textures/edges/mossgreen.bmp
 171/textures/edges/pomarancz.bmp
 171/textures/edges/porzeczka.bmp
@@ -1321,6 +1329,7 @@
 171/textures/militant.bmp
 171/textures/mossgreen.png
 171/textures/mtex_desert.png
+171/textures/newlaos.png
 171/textures/mtk_death.png
 171/textures/lumpybark.png
 171/textures/objects/berserkerkit.bmp
