@@ -638,6 +638,7 @@
 171/maps/ctf_Maya.pms
 171/maps/ctf_Mayapan.pms
 171/maps/ctf_MFM.pms
+171/maps/ctf_Mint.pms
 171/maps/ctf_Nuubia.pms
 171/maps/ctf_newLava.pms
 171/maps/ctf_newLaos.pms
@@ -924,12 +925,14 @@
 171/scenery-gfx/fx_li_spot3-sk.png
 171/scenery-gfx/fx_P_cloud1.png
 171/scenery-gfx/fx_vtt_smoke_14.png
+171/scenery-gfx/fx_P_cloud4.png
 171/scenery-gfx/garbish.bmp
 171/scenery-gfx/garbish.png
 171/scenery-gfx/gothic_elk_1.png
 171/scenery-gfx/gothic_forest_1.png
 171/scenery-gfx/Grasflache01.bmp
 171/scenery-gfx/grass.bmp
+171/scenery-gfx/gradient.png
 171/scenery-gfx/grass.png
 171/scenery-gfx/grass_x.bmp
 171/scenery-gfx/grass2.bmp
@@ -1162,6 +1165,7 @@
 171/scenery-gfx/stars.png
 171/scenery-gfx/stars1.png
 171/scenery-gfx/stars2.png
+171/scenery-gfx/skrzynia1.png
 171/scenery-gfx/SS_Laos-grass2.bmp
 171/scenery-gfx/stoneren1.png
 171/scenery-gfx/stoneren2.png
@@ -1238,6 +1242,7 @@
 171/scenery-gfx/veg_dead_12.png
 171/scenery-gfx/veg_dead_13.png
 171/scenery-gfx/veg_dead_21.png
+171/scenery-gfx/veg_winter_tree_7.png
 171/scenery-gfx/vine2.png
 171/scenery-gfx/WATER.PNG
 171/scenery-gfx/wall1.PNG
@@ -1298,6 +1303,7 @@
 171/textures/edges/melon.bmp
 171/textures/edges/metroid.bmp
 171/textures/edges/militant.bmp
+171/textures/edges/mint.png
 171/textures/edges/newlaos.png
 171/textures/edges/mossgreen.bmp
 171/textures/edges/pomarancz.bmp
@@ -1327,6 +1333,7 @@
 171/textures/melon.png
 171/textures/metroid.png
 171/textures/militant.bmp
+171/textures/mint.png
 171/textures/mossgreen.png
 171/textures/mtex_desert.png
 171/textures/newlaos.png
