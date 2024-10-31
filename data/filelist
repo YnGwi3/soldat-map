@@ -616,6 +616,7 @@
 171/maps/ctf_Ash.pms
 171/maps/ctf_B2b.pms
 171/maps/ctf_Blade.pms
+171/maps/ctf_Blako.pms
 171/maps/ctf_Bolanos.pms
 171/maps/ctf_Bresh.pms
 171/maps/ctf_Campeche.pms
@@ -733,6 +734,7 @@
 171/scenery-gfx/_dcactus6.png
 171/scenery-gfx/_dflower1.bmp
 171/scenery-gfx/_sy_01.png
+171/scenery-gfx/alc_barbwires.bmp
 171/scenery-gfx/alc_barbwires.png
 171/scenery-gfx/alc_barrel.png
 171/scenery-gfx/alc_bigcamonet.bmp
@@ -742,6 +744,7 @@
 171/scenery-gfx/amb_cloud1-sk.png
 171/scenery-gfx/amb_cloud-sk.png
 171/scenery-gfx/amb_cloud_msk.png
+171/scenery-gfx/amb_cloud_msk-sk.png
 171/scenery-gfx/amb_fog_ground-sk.png
 171/scenery-gfx/amb_fog_ground-sk_soft.png
 171/scenery-gfx/amb_fog_msk-sk.png
@@ -1042,6 +1045,7 @@
 171/scenery-gfx/mnp-jungle2.bmp
 171/scenery-gfx/mnp-jungle4.bmp
 171/scenery-gfx/mnp-jungle5.bmp
+171/scenery-gfx/mnp-lights2.bmp
 171/scenery-gfx/mnp-pipe1.png
 171/scenery-gfx/mnp-planks1.png
 171/scenery-gfx/mnp-powerline2.png
@@ -1243,6 +1247,7 @@
 171/scenery-gfx/stoneren2.png
 171/scenery-gfx/stoneren3.png
 171/scenery-gfx/support.png
+171/scenery-gfx/support_3u.png
 171/scenery-gfx/swamptree2.png
 171/scenery-gfx/TDT_0089.png
 171/scenery-gfx/tent.png
@@ -1265,6 +1270,7 @@
 171/scenery-gfx/tw_light.png
 171/scenery-gfx/tw_rime_snow.png
 171/scenery-gfx/tw_rover_fg_11.png
+171/scenery-gfx/tw_rover_pl_bg_2.png
 171/scenery-gfx/tw_tk_epyl.png
 171/scenery-gfx/tw_tk_lantern1.png
 171/scenery-gfx/utlight1v2.png
@@ -1442,6 +1448,7 @@
 171/textures/vtt16.bmp
 171/textures/vtt34.png
 171/textures/vtt_wct (34).png
+171/textures/vtt_wct (35).png
 171/textures/wisnia.png
 171/textures/wisnia2.png
 171/textures/xt_ap_grasrock_02.png
