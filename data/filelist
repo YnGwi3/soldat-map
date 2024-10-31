@@ -743,10 +743,12 @@
 171/scenery-gfx/amb_cloud-sk.png
 171/scenery-gfx/amb_fog_ground-sk.png
 171/scenery-gfx/amb_fog_ground-sk_soft.png
+171/scenery-gfx/amb_fog_msk-sk.png
 171/scenery-gfx/amb_moon-half-sk.png
 171/scenery-gfx/amb_sun-sk.png
 171/scenery-gfx/aq_shadow_7.png
 171/scenery-gfx/aster_warningtape.png
+171/scenery-gfx/b_col_metal1-sk.bmp
 171/scenery-gfx/b_col_metal1-sk.png
 171/scenery-gfx/b_col_wood-sk.png
 171/scenery-gfx/b_sak.png
@@ -866,6 +868,7 @@
 171/scenery-gfx/cs_siege_crate.png
 171/scenery-gfx/cs_siege_crate2.png
 171/scenery-gfx/ctf_ferrous_chain.bmp
+171/scenery-gfx/d_lantern3-sk.bmp
 171/scenery-gfx/deagle5_crate.png
 171/scenery-gfx/eo-city.png
 171/scenery-gfx/fade.png
@@ -1182,6 +1185,7 @@
 171/scenery-gfx/smallcrate.bmp
 171/scenery-gfx/smallcrate.png
 171/scenery-gfx/snowonplank.png
+171/scenery-gfx/snowsbags3.bmp
 171/scenery-gfx/sp_parede4.png
 171/scenery-gfx/sp_parede5.png
 171/scenery-gfx/sp_passarela.png
@@ -1297,6 +1301,7 @@
 171/scenery-gfx/xt_jh_stone01.png
 171/scenery-gfx/xt_jh_tree04.png
 171/scenery-gfx/xt_mo_wire_01.png
+171/scenery-gfx/zak_icetexture.png
 171/textures/ananas.png
 171/textures/ananasnoedge.bmp
 171/textures/ananaspistacja.bmp
