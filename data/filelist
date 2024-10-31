@@ -644,6 +644,7 @@
 171/maps/ctf_newLava.pms
 171/maps/ctf_Nuubia.pms
 171/maps/ctf_oldLava.pms
+171/maps/ctf_Pod.pms
 171/maps/ctf_Raspberry.pms
 171/maps/ctf_Rotten.pms
 171/maps/ctf_Ruins.pms
@@ -1079,6 +1080,7 @@
 171/scenery-gfx/pure_plank2.png
 171/scenery-gfx/pure_plank3.png
 171/scenery-gfx/pure_plank4.png
+171/scenery-gfx/pure_rail3.png
 171/scenery-gfx/pure_sign.png
 171/scenery-gfx/pure_sparks.gif
 171/scenery-gfx/pure_sparks2.gif
@@ -1299,6 +1301,7 @@
 171/textures/ancientwall.png
 171/textures/awokado.png
 171/textures/banana.png
+171/textures/bullrun.png
 171/textures/ctf_cobra2.png
 171/textures/ctf_steel.png
 171/textures/cytryna.png
