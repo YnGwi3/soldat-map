@@ -779,9 +779,11 @@
 171/scenery-gfx/bnw_col4.bmp
 171/scenery-gfx/bnw_col5.bmp
 171/scenery-gfx/bnw_crate3.bmp
+171/scenery-gfx/bnw_grass.bmp
 171/scenery-gfx/bnw_grass3.bmp
 171/scenery-gfx/bnw_junglebush.bmp
 171/scenery-gfx/bnw_liana3.bmp
+171/scenery-gfx/bnwl_putki.bmp
 171/scenery-gfx/bnwl_putki.png
 171/scenery-gfx/boulder001.png
 171/scenery-gfx/boulder003.png
@@ -789,8 +791,10 @@
 171/scenery-gfx/boulder057.png
 171/scenery-gfx/boulder059.png
 171/scenery-gfx/boulder092.png
+171/scenery-gfx/box23.bmp
 171/scenery-gfx/box23.png
 171/scenery-gfx/boxw.png
+171/scenery-gfx/boxw2.bmp
 171/scenery-gfx/boxw2.png
 171/scenery-gfx/branches.bmp
 171/scenery-gfx/branches.png
@@ -926,9 +930,15 @@
 171/scenery-gfx/fx_P_cloud4.png
 171/scenery-gfx/fx_P_nova4.png
 171/scenery-gfx/fx_vtt_smoke_08.png
+171/scenery-gfx/fx_vtt_smoke_11.png
 171/scenery-gfx/fx_vtt_smoke_14.png
 171/scenery-gfx/garbish.bmp
 171/scenery-gfx/garbish.png
+171/scenery-gfx/gd2_bushes.bmp
+171/scenery-gfx/gd2_grass1.bmp
+171/scenery-gfx/gd2_grass2.bmp
+171/scenery-gfx/gd2_grass3.bmp
+171/scenery-gfx/gd4_grass2.png
 171/scenery-gfx/gothic_elk_1.png
 171/scenery-gfx/gothic_forest_1.png
 171/scenery-gfx/gradient.png
@@ -950,10 +960,14 @@
 171/scenery-gfx/grass6.png
 171/scenery-gfx/grass7.bmp
 171/scenery-gfx/grass_x.bmp
+171/scenery-gfx/Grave Nowar.bmp
+171/scenery-gfx/Grave tn.bmp
 171/scenery-gfx/grave_nowar.png
 171/scenery-gfx/grave_tn.png
 171/scenery-gfx/gravestone2.png
 171/scenery-gfx/grillage.png
+171/scenery-gfx/hell_zaun.bmp
+171/scenery-gfx/HoDBloodSplatter.png
 171/scenery-gfx/icicles.png
 171/scenery-gfx/id_vent1-sk.png
 171/scenery-gfx/inka_1.bmp
@@ -962,6 +976,7 @@
 171/scenery-gfx/inka_5.bmp
 171/scenery-gfx/inka_6.bmp
 171/scenery-gfx/inka_7.bmp
+171/scenery-gfx/int_flak88.bmp
 171/scenery-gfx/italy_table.png
 171/scenery-gfx/jplite.png
 171/scenery-gfx/jungleback.bmp
@@ -981,6 +996,8 @@
 171/scenery-gfx/jungletree.png
 171/scenery-gfx/jungletree2.png
 171/scenery-gfx/Kamimetal.png
+171/scenery-gfx/Kamitankbig.PNG
+171/scenery-gfx/L1R_shd_twinlight.png
 171/scenery-gfx/L1R_SteelDoor.png
 171/scenery-gfx/l_lamp-torch-sk.bmp
 171/scenery-gfx/l_lamp_bulb_l-sk.png
@@ -1000,6 +1017,7 @@
 171/scenery-gfx/liana123.bmp
 171/scenery-gfx/liana4.1.png
 171/scenery-gfx/liana4.2.png
+171/scenery-gfx/liana do flag.bmp
 171/scenery-gfx/Light.png
 171/scenery-gfx/limbo_rope_4.png
 171/scenery-gfx/limbo_rope_5.png
@@ -1209,7 +1227,10 @@
 171/scenery-gfx/st-chain2.png
 171/scenery-gfx/st-cranebase2.png
 171/scenery-gfx/st-cranerail.bmp
+171/scenery-gfx/st-grave2.bmp
+171/scenery-gfx/st-grave3.bmp
 171/scenery-gfx/st-grave3.png
+171/scenery-gfx/st-gravecard2.bmp
 171/scenery-gfx/st-pipe-brbend.png
 171/scenery-gfx/st-pipe-horiz.png
 171/scenery-gfx/st-pipe-trbend.png
@@ -1237,7 +1258,9 @@
 171/scenery-gfx/tree5.png
 171/scenery-gfx/tree6.png
 171/scenery-gfx/tree7.png
+171/scenery-gfx/tree11.bmp
 171/scenery-gfx/treefallen.bmp
+171/scenery-gfx/tw_anoxi_treescape_2.png
 171/scenery-gfx/tw_coldmorning_fbg_1.png
 171/scenery-gfx/tw_light.png
 171/scenery-gfx/tw_rime_snow.png
@@ -1273,6 +1296,7 @@
 171/scenery-gfx/veg_dead_12.png
 171/scenery-gfx/veg_dead_13.png
 171/scenery-gfx/veg_dead_21.png
+171/scenery-gfx/veg_grass_1.png
 171/scenery-gfx/veg_grass_6.png
 171/scenery-gfx/veg_palm_7.png
 171/scenery-gfx/veg_palm_8.png
