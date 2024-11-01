@@ -646,6 +646,7 @@
 171/maps/ctf_newLava.pms
 171/maps/ctf_Nuubia.pms
 171/maps/ctf_oldLava.pms
+171/maps/ctf_Paradigm.pms
 171/maps/ctf_Pod.pms
 171/maps/ctf_Raspberry.pms
 171/maps/ctf_Rotten.pms
@@ -1345,6 +1346,7 @@
 171/scenery-gfx/xt_jh_stone01.png
 171/scenery-gfx/xt_jh_tree04.png
 171/scenery-gfx/xt_mo_wire_01.png
+171/scenery-gfx/zak_ani_clouds3.gif
 171/scenery-gfx/zak_icetexture.png
 171/textures/ananas.png
 171/textures/ananasnoedge.bmp
@@ -1398,6 +1400,7 @@
 171/textures/edges/truskawka.bmp
 171/textures/edges/wisnia.bmp
 171/textures/edges/wisnia2.bmp
+171/textures/edges/zak_metal.png
 171/textures/empty.bmp
 171/textures/grejfrut.png
 171/textures/grunge9.png
@@ -1460,4 +1463,5 @@
 171/textures/xt_autumgrassrock.png
 171/textures/xt_forrestdirtrock.png
 171/textures/zak_grassstone6.png
+171/textures/zak_metal.png
 171/textures/zaklava2.png
