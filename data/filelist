@@ -623,6 +623,7 @@
 171/maps/ctf_Catch.pms
 171/maps/ctf_Cobra.pms
 171/maps/ctf_Crucifix.pms
+171/maps/ctf_Custodian.pms
 171/maps/ctf_Death.pms
 171/maps/ctf_Division.pms
 171/maps/ctf_Dropdown.pms
@@ -890,6 +891,7 @@
 171/scenery-gfx/fence2.2.png
 171/scenery-gfx/ff-bamboo.bmp
 171/scenery-gfx/ff-beam2.png
+171/scenery-gfx/ff-bg3.bmp
 171/scenery-gfx/ff-bg3.png
 171/scenery-gfx/ff-bolt.png
 171/scenery-gfx/ff-bones.png
@@ -1067,6 +1069,7 @@
 171/scenery-gfx/monlantern.png
 171/scenery-gfx/mw-blood021.png
 171/scenery-gfx/mw-blood055.png
+171/scenery-gfx/MX_Sanbox_3.png
 171/scenery-gfx/nuclearsymbol.png
 171/scenery-gfx/o_barrel1-sk.png
 171/scenery-gfx/o_barrel2-sk.png
@@ -1367,6 +1370,7 @@
 171/textures/edges/dankoe.bmp
 171/textures/edges/default.bmp
 171/textures/edges/default.png
+171/textures/edges/empty.bmp
 171/textures/edges/grejfrut.bmp
 171/textures/edges/gruszka.bmp
 171/textures/edges/jablko.bmp
@@ -1394,6 +1398,7 @@
 171/textures/edges/truskawka.bmp
 171/textures/edges/wisnia.bmp
 171/textures/edges/wisnia2.bmp
+171/textures/empty.bmp
 171/textures/grejfrut.png
 171/textures/grunge9.png
 171/textures/gruszka.png
