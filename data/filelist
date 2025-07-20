@@ -649,6 +649,9 @@
 171/maps/ctf_Paradigm.pms
 171/maps/ctf_Pod.pms
 171/maps/ctf_Raspberry.pms
+171/maps/ctf_Razer.pms
+171/maps/ctf_Rift.pms
+171/maps/ctf_RL.pms
 171/maps/ctf_Rotten.pms
 171/maps/ctf_Ruins.pms
 171/maps/ctf_Run.pms
@@ -721,6 +724,7 @@
 171/scenery-gfx/0007.png
 171/scenery-gfx/0009.png
 171/scenery-gfx/0009d.png
+171/scenery-gfx/001gird.bmp
 171/scenery-gfx/0021.png
 171/scenery-gfx/8_blox_pilar_long_2.png
 171/scenery-gfx/8_blox_pilar_short.png
@@ -892,6 +896,8 @@
 171/scenery-gfx/d_lantern3-sk.bmp
 171/scenery-gfx/deagle5_crate.png
 171/scenery-gfx/eo-city.png
+171/scenery-gfx/etc_ST-Towerbase.BMP
+171/scenery-gfx/etc_ST-TowerGuard.bmpp
 171/scenery-gfx/fade.png
 171/scenery-gfx/fd_railing_short.png
 171/scenery-gfx/fence2.1.png
@@ -1000,6 +1006,7 @@
 171/scenery-gfx/jes_cageback.png
 171/scenery-gfx/jes_cagefront.png
 171/scenery-gfx/jplite.png
+171/scenery-gfx/jump_arrow.bmp
 171/scenery-gfx/jungleback.bmp
 171/scenery-gfx/jungleback.png
 171/scenery-gfx/junglebush2.bmp
@@ -1040,8 +1047,11 @@
 171/scenery-gfx/liana.bmp
 171/scenery-gfx/liana.png
 171/scenery-gfx/Light.png
+171/scenery-gfx/limbo_rope_1.png
+171/scenery-gfx/limbo_rope_2.png
 171/scenery-gfx/limbo_rope_4.png
 171/scenery-gfx/limbo_rope_5.png
+171/scenery-gfx/ls_Nuclearfactory.Electricrope.png
 171/scenery-gfx/m_blood1-sk.png
 171/scenery-gfx/m_blood2-sk.png
 171/scenery-gfx/m_blood3-sk.png
@@ -1067,6 +1077,7 @@
 171/scenery-gfx/mnp-lights2.bmp
 171/scenery-gfx/mnp-pipe1.png
 171/scenery-gfx/mnp-planks1.png
+171/scenery-gfx/mnp-powerline1.bmp
 171/scenery-gfx/mnp-powerline2.png
 171/scenery-gfx/mnp-powerline3.png
 171/scenery-gfx/mnp-powerline5.png
@@ -1235,6 +1246,7 @@
 171/scenery-gfx/sandbags6.png
 171/scenery-gfx/sandbags.bmp
 171/scenery-gfx/sandbags.png
+171/scenery-gfx/sandbunker.bmp
 171/scenery-gfx/shw_lin_center-sk.png
 171/scenery-gfx/sign_noFlag.png
 171/scenery-gfx/skrzynia1.png
@@ -1369,6 +1381,9 @@
 171/scenery-gfx/xt_jh_tree04.png
 171/scenery-gfx/xt_mo_wire_01.png
 171/scenery-gfx/zak_ani_clouds3.gif
+171/scenery-gfx/zak_ani_lightning2.gif
+171/scenery-gfx/zak_ani_sawblade.gif
+171/scenery-gfx/zak_ani_siren.gif
 171/scenery-gfx/zak_icetexture.png
 171/textures/ananas.png
 171/textures/ananasnoedge.bmp
